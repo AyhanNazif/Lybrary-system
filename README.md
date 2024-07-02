@@ -5,4 +5,4 @@
 <li>Python</li>
 <li>MySQL</li>
 
-This is a console base project about read, create, delete and update a books for lybrary system.
+<p>This is a console base project about read, create, delete and update a books for lybrary system.</p>
