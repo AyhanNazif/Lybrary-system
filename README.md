@@ -2,8 +2,7 @@
 
 <b>Technology stack:</b>
 
-Python
-
-MySQL
+<li>Python</li>
+<li>MySQL</li>
 
 This is a console base project about read, create, delete and update a books for lybrary system.
